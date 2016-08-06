@@ -1,0 +1,14 @@
+name, email, links to Li, or github or personal homepage
+objective - which i want to work
+summary(projects) - which i've done before as a work
+**IMPORTANT! skills - what i can do. programming languages and level of it
+		 what i can use for work. framework, high-tech..
+
+experience
+education
+certificate & award
+
+
+
+
+

@@ -1,0 +1,19 @@
+HeonGyeom Kim
+010-3499-1612
+haven.cpp@gmail.com
+github - haven.cpp@gmail.com
+linkedIn - haven.cpp@gmail.com
+
+objective - I'm really interested in System Programming and Software Development. To me, System Programming is like dig into the deep of the systems and analyse it for more better performance and just float the system for fun! So I want to make more better performance of the progress of your works and administrate it. And also, that is going to be mean i want to administrate network system. The system performance will have strong connection between network performance. So i will use my best algorithm skills and development skills to enhance your companie's work.
+
+summary - A mini car project that drives alone using ultrasonic sensor and raspberry pi. 
+		  A christmas tree that play the random carol songs and turn the tree more brighter using ultrasonic sensor,  raspberry pi and philips hue
+		  
+skills - Java(Intermediate), C(Intermediate), C++(Beginner), Python(Beginner).
+		 especially, nerd of Linux system.
+
+education - Undergraduate of Chungnam National University
+
+Certification & Award - None of them. Only got a Udemy certification of "Learn linux in 5 days for your career"
+
+
